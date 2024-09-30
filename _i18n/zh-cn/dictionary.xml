@@ -3258,7 +3258,6 @@ ONTAP Select集群</block>
   <block id="58c277c116ff23ffb9879debb95b4968" category="list-text">支持基于TCP的NVMe</block>
   <block id="db5f5d6e1e5a3e29724ce78258556ff1" category="list-text">升级到ONTAP Select 9.13.1时、您必须具有新许可证才能支持基于TCP的NVMe。首次从9.131版部署ONTAP Select时、系统会自动包含此许可证。</block>
   <block id="5f4c6121d4f63aaa5d6daebc2a2effee" category="list-text">已更新VMware ESXi支持</block>
-  <block id="4d8daf3f51ebf7fefb4dfcf900e9b79d" category="list-text">从ONTAP 9.131开始、硬件版本4及更高版本支持VMware ESXi 8.0 GA (内部版本20513097)。</block>
   <block id="2183c79114d56889f4a8854299f703a5" category="list-text">自2024年4月起、ONTAP Select Deploy 9.13.1不再适用于NetApp 支持站点。如果您运行的是ONTAP Select Deploy 9.13.1,则应尽快升级到ONTAP Select Deploy 9.14.1P2。有关详细信息，请参见 <block ref="6635db952aa4480bb5bc591b4d6d32f6" category="inline-link-macro-rx"></block>。</block>
   <block id="77e5d3b8719596b41c77222a6711e69b" category="section-title">ONTAP Select 9.12.1</block>
   <block id="05dd50ebf48db80deadf4c9a847c2ce4" category="paragraph">ONTAP Select 9.12.1从当前版本的核心ONTAP 产品中的大多数新开发中受益。它不包括ONTAP Select 特有的任何新功能或改进。</block>
@@ -3773,4 +3772,6 @@ storage aggregate show-spare-disks</block>
   <block id="0a15f7ba73868a32304fdf52855463c9" category="sidebar">删除 ONTAP Select 映像</block>
   <block id="afc9d68a1be701598b5ef94dc0be2844" category="sidebar">恢复双节点集群的 Deploy</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1及更高版本现在支持将SVM DR同时用作源和目标、并且最多具有16个关系。SVM DR支持仅限于使用源ONTAP版本+2。例如、ONTAP Select 9.12.1源可以连接到目标ONTAP 9.12.1、9.13.1或9.14.1。</block>
+  <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1支持VMware ESXi 8.0.2。</block>
+  <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">从ESXi .13.1开始、ONTAP 9 8.0.1 GA (内部版本20513097)在硬件版本4及更高版本中受支持。</block>
 </blocks>
