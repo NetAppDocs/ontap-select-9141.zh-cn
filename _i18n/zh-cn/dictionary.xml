@@ -3679,7 +3679,6 @@ storage aggregate show-spare-disks</block>
   <block id="bf228c91d777320bb66324531a85cdb5" category="list-text">代理 URL （可选）</block>
   <block id="a070d5cad46a2ff939c511d82e8fa8a6" category="list-text">键入 * ？ * 并按 * Enter * 以显示可用管理 Shell 命令的列表。</block>
   <block id="f8304478cfdeb2db287b6dcf0b36f3a8" category="sidebar">NetApp ONTAP Select是一款软件定义的存储设备、您可以部署在运行VMware ESXi或基于内核的虚拟机(Kerner-Based Virtual Machine、KVM)虚拟机管理程序的各种商用硬件服务器上。它可以为您提供构建灵活且可扩展的私有云基础架构所需的灵活性。此站点包含ONTAP Select 9.14.1的文档。</block>
-  <block id="7436b418bed093768e360d32105591d2" category="sidebar">ONTAP Select 文档</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">入门</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
@@ -3774,4 +3773,5 @@ storage aggregate show-spare-disks</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1及更高版本现在支持将SVM DR同时用作源和目标、并且最多具有16个关系。SVM DR支持仅限于使用源ONTAP版本+2。例如、ONTAP Select 9.12.1源可以连接到目标ONTAP 9.12.1、9.13.1或9.14.1。</block>
   <block id="78fb396e8c541b492002e6b94963fe83" category="list-text">ONTAP Select 9.14.1支持VMware ESXi 8.0.2。</block>
   <block id="2908aba1afb68c480565ae68ebe3508c" category="list-text">从ESXi .13.1开始、ONTAP 9 8.0.1 GA (内部版本20513097)在硬件版本4及更高版本中受支持。</block>
+  <block id="7f354690d454e4370ee79703e014fbd0" category="sidebar">ONTAP Select 9.14.1文档</block>
 </blocks>
