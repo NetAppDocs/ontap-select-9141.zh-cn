@@ -3652,7 +3652,6 @@ storage aggregate show-spare-disks</block>
   <block id="250f6d868aabeaced76663cb583769da" category="sidebar">管理集群</block>
   <block id="6a66d4f800a8576eee650d6dd676dd9d" category="sidebar">使用REST API</block>
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">更多资源</block>
-  <block id="2cf665df8bcce3d8608ac2923c3934b2" category="sidebar">ONTAP Select资源页面</block>
   <block id="fa0fa8503380df9df5c58ad57a531ff5" category="sidebar">ONTAP Select 产品库</block>
   <block id="c09b5be4c2da04f4040eef1878f258aa" category="sidebar">ONTAP 9 文档</block>
   <block id="5c7750df890d8a1ae46102a5c56d163d" category="sidebar">ONTAP Select博客</block>
@@ -3742,4 +3741,5 @@ storage aggregate show-spare-disks</block>
   <block id="be0d4e27d8840d1c72235cf50443fb8d" category="inline-link-macro">虚拟机管理程序的软件兼容性信息</block>
   <block id="49ea5cb7c3815d4c59fc6dcf8eca3da7" category="paragraph">您必须使用ISO映像安装Red Hat Enterprise Linux (RHEL)操作系统。有关支持的RHEL版本列表、请参见<block ref="12b9dc433549f13cfe17d1a83c8c9209" category="inline-link-macro-rx"></block>。在安装期间、您应按如下所示配置系统：</block>
   <block id="97864053a66a3401d6a681c00bd2e4e3" category="paragraph">有关所需软件包和其他配置要求的其他信息，请参见<block ref="8929420574d68b861547fa3bcafe0ff2" category="inline-link-macro-rx"></block>。</block>
+  <block id="37730150d6378b2a0b04f20595d2d65a" category="list-text">ESXi 8.0 U3</block>
 </blocks>
