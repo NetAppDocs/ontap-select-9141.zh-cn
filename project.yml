@@ -21,7 +21,7 @@ settings:
     url: "/ontap-select-9121"
   - version-number: 9.11.1
     url: "/ontap-select-9111"
-  langs: zh-cn,us-en,ja-jp,ko-kr,zh-tw,de-de,es-es,fr-fr,it-it
+  langs: zh-cn,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-tw
 sidebar:
   entries:
   - title: ONTAP Select 9.14.1文档
@@ -260,8 +260,6 @@ sidebar:
         url: "/reference_api_script_common.html"
       - title: 调整集群节点的大小
         url: "/reference_api_script_resize.html"
-  - title: 借助 Ansible 实现自动化
-    url: "/concept_automate_ansible.html"
   - title: 使用命令行界面
     entries:
     - title: 使用 SSH 登录
